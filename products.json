@@ -1,0 +1,72 @@
+[
+  {
+    "PRODUCT_ID": "0",
+    "PRODUCT": "Wire 14-2",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "0.38 $/ft"
+  },
+  {
+    "PRODUCT_ID": "1",
+    "PRODUCT": "Wire 14-3",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "0.46 $/ft"
+  },
+  {
+    "PRODUCT_ID": "2",
+    "PRODUCT": "Wire 12-2",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "0.52 $/ft"
+  },
+  {
+    "PRODUCT_ID": "3",
+    "PRODUCT": "Wire 12-3",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "0.67 $/ft"
+  },
+  {
+    "PRODUCT_ID": "4",
+    "PRODUCT": "Wire 10-2",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "1.00 $/ft"
+  },
+  {
+    "PRODUCT_ID": "5",
+    "PRODUCT": "Wire 10-3",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "1.30 $/ft"
+  },
+  {
+    "PRODUCT_ID": "7",
+    "PRODUCT": "SEU",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "2.48 $/ft"
+  },
+  {
+    "PRODUCT_ID": "8",
+    "PRODUCT": "SER",
+    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "STOCK": "250",
+    "PRICE": "1.30 $/ft"
+  },
+  {
+    "PRODUCT_ID": "9",
+    "PRODUCT": "Plug",
+    "ITEM_DESCRIPTION": "10",
+    "STOCK": "25",
+    "PRICE": "1.5"
+  },
+  {
+    "PRODUCT_ID": "10",
+    "PRODUCT": "Switch",
+    "ITEM_DESCRIPTION": "10",
+    "STOCK": "25",
+    "PRICE": "1.5"
+  }
+]
