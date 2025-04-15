@@ -2,14 +2,13 @@ require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
-const axios = require("axios");
 const path = require("path");
 
 const app = express();
 app.use(express.json());
 app.use(cors()); // Allow frontend requests
 
-// Google OAuth Route
+// Check to see if the server is up or not
 app.get("/hello", async (req, res) => {
   try {
     res.send("hello");
@@ -17,7 +16,7 @@ app.get("/hello", async (req, res) => {
     res.status(500).json({ error: "uh oh something broke :(" });
   }
 });
-
+// End point for 
 app.get("/products", async (req, res) => {
   try {
     const productsData = fs.readFileSync("products.json", "utf-8");

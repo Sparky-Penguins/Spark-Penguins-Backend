@@ -2,70 +2,70 @@
   {
     "PRODUCT_ID": "0",
     "PRODUCT": "Wire 14-2",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "General use for electrical needs under 15 amps",
     "STOCK": "250",
     "PRICE": "0.38 $/ft"
   },
   {
     "PRODUCT_ID": "1",
     "PRODUCT": "Wire 14-3",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "Used for 3-way light switch system",
     "STOCK": "250",
     "PRICE": "0.46 $/ft"
   },
   {
     "PRODUCT_ID": "2",
     "PRODUCT": "Wire 12-2",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "Electrical wire is used for the distribution of electricity. General use for electrical under 20 amps",
     "STOCK": "250",
     "PRICE": "0.52 $/ft"
   },
   {
     "PRODUCT_ID": "3",
     "PRODUCT": "Wire 12-3",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "3 way switches \n2 Pull plugs",
     "STOCK": "250",
     "PRICE": "0.67 $/ft"
   },
   {
     "PRODUCT_ID": "4",
     "PRODUCT": "Wire 10-2",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "General use for electrical under 30 Amps",
     "STOCK": "250",
     "PRICE": "1.00 $/ft"
   },
   {
     "PRODUCT_ID": "5",
     "PRODUCT": "Wire 10-3",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "Electrical distribution that needs a double pull 240 electrical power distribution, Dryer, heater, air conditioning",
     "STOCK": "250",
     "PRICE": "1.30 $/ft"
   },
   {
     "PRODUCT_ID": "7",
     "PRODUCT": "SEU",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "General distribution of electricity for power distribution to a electrical panel",
     "STOCK": "250",
     "PRICE": "2.48 $/ft"
   },
   {
     "PRODUCT_ID": "8",
     "PRODUCT": "SER",
-    "ITEM_DESCRIPTION": "Wiring comes in 250ft",
+    "ITEM_DESCRIPTION": "General distribution for electrical panel with a second grounding conductor",
     "STOCK": "250",
     "PRICE": "1.30 $/ft"
   },
   {
     "PRODUCT_ID": "9",
     "PRODUCT": "Plug",
-    "ITEM_DESCRIPTION": "10",
+    "ITEM_DESCRIPTION": "General plug, used for power distribution to appliances and devices \n Don’t stick the fork in the plug!",
     "STOCK": "25",
     "PRICE": "1.5"
   },
   {
     "PRODUCT_ID": "10",
     "PRODUCT": "Switch",
-    "ITEM_DESCRIPTION": "10",
+    "ITEM_DESCRIPTION": "Uses for distributing power to a light source",
     "STOCK": "25",
     "PRICE": "1.5"
   }
