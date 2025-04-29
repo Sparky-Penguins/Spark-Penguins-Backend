@@ -1,12 +1,23 @@
-To build this project first make sure you have node installed, then install of the following 
-dependencies: {
-    "axios": "^1.8.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2"
-}
+# Sparky Penguins Server
 
-now just run node server.js and it will run the server on localhost:3232
+To build this project:
 
-Then go to https://github.com/Sparky-Penguins/sparky-penguins.github.io and dowload the main website code then replace const serverURL in index.html with 
-what ever the end point for the server so if your running this locally change it to localhost:3232
+1. Make sure you have [Node.js](https://nodejs.org/) installed.
+2. Open a terminal and run:
+<pre>npm install</pre>
+This will install the required dependencies.
+
+3. Then run:
+<pre>node server.js</pre>
+This will start the server on `localhost:3232`.
+
+---
+
+Next, go to [https://github.com/Sparky-Penguins/sparky-penguins.github.io](https://github.com/Sparky-Penguins/sparky-penguins.github.io) and download the main website code.
+
+In the `index.html` file, replace the value of `const serverURL` with the server endpoint.
+
+If you're running this locally, use:
+
+```javascript
+const serverURL = "http://localhost:3232";
